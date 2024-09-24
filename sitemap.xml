@@ -52,6 +52,12 @@
     <loc>https://carpentries-incubator.github.io/fair-explainable-ml/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/fair-explainable-ml/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/fair-explainable-ml/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/fair-explainable-ml/index.html</loc>
   </url>
   <url>
@@ -106,13 +112,31 @@
     <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/fair-explainable-ml/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/fair-explainable-ml/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/fair-explainable-ml/profiles.html</loc>
